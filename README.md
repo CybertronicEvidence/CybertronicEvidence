@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=I+am+codepraycode;A+web+developer;A+mobile+app+developer;A+desktop+app+developer;An+evolving+software+engineer)](https://git.io/typing-svg)
+
+
 <a href="https://app.daily.dev/Evidence"><img src="https://github.com/CybertronicEvidence/CybertronicEvidence/blob/main/devcard.svg" width="400" alt="Evidence's Dev Card"/></a>
 
 
